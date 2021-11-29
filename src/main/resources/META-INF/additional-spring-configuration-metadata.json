@@ -1,0 +1,52 @@
+{"properties": [
+  {
+    "name": "auth.datasource.username",
+    "type": "java.lang.String",
+    "description": "A description for 'auth.datasource.username'"
+  },
+  {
+    "name": "app.datasource.JdbcUrl",
+    "type": "java.lang.String",
+    "description": "A description for 'app.datasource.JdbcUrl'"
+  },
+  {
+    "name": "app.datasource.JdbcUrl",
+    "type": "java.lang.String",
+    "description": "A description for 'app.datasource.JdbcUrl'"
+  },
+  {
+    "name": "app.datasource.username",
+    "type": "java.lang.String",
+    "description": "A description for 'app.datasource.username'"
+  },
+  {
+    "name": "app.datasource.password",
+    "type": "java.lang.String",
+    "description": "A description for 'app.datasource.password'"
+  },
+  {
+    "name": "auth.datasource.JdbcUrl",
+    "type": "java.lang.String",
+    "description": "A description for 'auth.datasource.JdbcUrl'"
+  },
+  {
+    "name": "auth.datasource.password",
+    "type": "java.lang.String",
+    "description": "A description for 'auth.datasource.password'"
+  },
+  {
+    "name": "app.datasource.JdbcUrl",
+    "type": "java.lang.String",
+    "description": "A description for 'app.datasource.JdbcUrl'"
+  },
+  {
+    "name": "auth.datasource.JdbcUrl",
+    "type": "java.lang.String",
+    "description": "A description for 'auth.datasource.JdbcUrl'"
+  },
+  {
+    "name": "auth.datasource.JdbcUrl",
+    "type": "java.lang.String",
+    "description": "A description for 'auth.datasource.JdbcUrl'"
+  }
+]}
